@@ -1,0 +1,16 @@
+name = "NorthLand City Server Modpack"
+author = "JCrispin56"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7e1811d6b0c6d68d3c2025975ee83302b42e3970aadb23378127f2b54caf65a2"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.4"
+
+[options]
+acceptable-game-versions = ["1.20.4"]
