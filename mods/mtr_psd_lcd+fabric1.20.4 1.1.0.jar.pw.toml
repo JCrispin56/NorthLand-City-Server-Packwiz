@@ -1,0 +1,8 @@
+name = "mtr_psd_lcd+fabric1.20.4 1.1.0"
+filename = "mtr_psd_lcd+fabric1.20.4 1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8785/188/mtr_psd_lcd+fabric1.20.4 1.1.0.jar"
+hash-format = "sha512"
+hash = "bf6838f574ddb450595ff913cc31b1751b0d5d76ed656c43d4ff322243a6cdb7595c959a931d08acaded17c8988f5510c8c013e589a5270e78def726fddc54ba"

@@ -1,0 +1,8 @@
+name = "Axiom-5.4.2-for-MC1.20.4"
+filename = "Axiom-5.4.2-for-MC1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/yt1TxRll/Axiom-5.4.2-for-MC1.20.4.jar"
+hash-format = "sha512"
+hash = "acb23dcafe708a3dbe510d2df3963a02fee2775a6f740e46cca0613f183d5168b3f245888feb4e1aa24c97152bf3254d3f30883d69aafaef760419fcc07bb21b"

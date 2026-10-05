@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/Axiom-5.4.2-for-MC1.20.4.jar.pw.toml"
+hash = "e97a640eb7a92ee5d136f00c1a021cbdd80efd9917b9433ea07389c98061ec83"
+metafile = true
+
+[[files]]
+file = "mods/CustomSkinLoader_Universal-15.0.1.jar.pw.toml"
+hash = "3d9835d352ec92e4c64952d2912a1bf7cda7f2334b5d63cd582007ce88162e0e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.97.3+1.20.4.jar.pw.toml"
+hash = "81a073a42b7c38640d9b079630ff39bb98e439aa220262f713df755e44434ec3"
+metafile = true
+
+[[files]]
+file = "mods/filters-fabric-1.1.0+1.20.4.jar.pw.toml"
+hash = "7add8f02550fc7801b10684afcdefe5aa66d604a419078dec005e618e58c6db5"
+metafile = true
+
+[[files]]
+file = "mods/JCM-fabric-2.2.3+1.20.4.jar.pw.toml"
+hash = "4d2c6ae6526b5f60a32be24cbe849efb4888c7e9580cad425068dfb25376874d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu-9.2.0.jar.pw.toml"
+hash = "79f0ade14be530f36c233b2cab3fb4cbe88aa0e8fcb39272b89c00d7d22b218e"
+metafile = true
+
+[[files]]
+file = "mods/MTR-fabric-4.0.5+1.20.4.jar.pw.toml"
+hash = "4cfd2b4ba9a1831fa14ed0d6d68e9c07faa4355b435a9f80be3c955d357dd6d0"
+metafile = true
+
+[[files]]
+file = "mods/mtr_psd_lcd+fabric1.20.4 1.1.0.jar.pw.toml"
+hash = "26d8c37250910966bf05c9b9296987934c09f9a24190b682e343b9f2dfb458d3"
+metafile = true
+
+[[files]]
+file = "mods/Tianjin-Metro-1.1.1+1.20.4.jar.pw.toml"
+hash = "d2d37e93dce77fa72385087b04e7029cec11b83b53aa3090b6d519c7b3f1312a"
+metafile = true
